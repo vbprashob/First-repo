@@ -1,0 +1,6 @@
+git
+powershell
+python
+ansible
+jenkins
+docker
